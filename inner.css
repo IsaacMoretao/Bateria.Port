@@ -1,0 +1,57 @@
+body{
+  margin: 0%;
+  padding: 0%;
+  text-align: center;
+  margin-top: 3%;
+}
+main{
+  background-color: aqua;
+  margin-left: 15%;
+  margin-right: 15%;
+  border: 1px solid black;
+  border-radius: 30px;
+}
+img{
+  padding: 20px;
+}
+.botão{
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  border-radius: 10px;
+  border: 2px solid rgb(255, 255, 255);
+  background-color: rgba(13, 59, 158, 0.65);
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+}
+#sete {
+  margin-top: 60px;
+  margin-left: -36%;
+}
+#seis{
+  margin-top: 65px;
+  margin-left: -200px;
+}
+#cinco{
+  margin-top: 15%;
+  margin-left: -150px;
+}
+#quatro{
+  margin-top: 15%;
+  margin-left: -300px;
+}
+#tres{
+  margin-top: 15%;
+  margin-left: -39%;
+}
+#dois{
+  margin-top: 25%;
+  margin-left: -48%;
+}
+#um{
+  margin-top: 33.5%;
+  margin-left: -33%;
+  width: 150px;
+}
+
+
