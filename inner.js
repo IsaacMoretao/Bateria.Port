@@ -47,3 +47,32 @@ function clicar7() {
   prato.play()
 
 }
+document.onkeydown = teclado;
+function teclado (e) {
+  if (e.keyCode == 32){
+    bumbo.play() 
+
+  } else if (e.keyCode == 65){
+    surdo.play()
+
+  } else if (e.keyCode == 87){
+    ton1.play()
+
+  } else if (e.keyCode == 68){
+    ton2.play()
+
+  } else if (e.keyCode == 74){
+    caixa.play()
+
+  } else if (e.keyCode == 75){
+    chimball.play() 
+
+  } else if (e.keyCode == 76){
+    prato.play() 
+    
+  } else{
+
+  }
+
+  
+} 
